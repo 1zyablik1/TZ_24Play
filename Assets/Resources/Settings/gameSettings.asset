@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bf1a595ed0ed444ab104453b8dee79a, type: 3}
+  m_Name: gameSettings
+  m_EditorClassIdentifier: 
+  roadWidth: 5
+  speed: 8
+  sideSpeed: 20
+  cubeCollectingSpeed: 0.25
